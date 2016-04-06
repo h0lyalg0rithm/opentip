@@ -4,6 +4,7 @@
   "main": [
     "css/opentip.css",
     "lib/opentip.js",
+    "lib/adapter-native.js"
   ],
   "dependencies": {
     "jquery": "~1.9.0"
